@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Estonia&family=Lato&family=Merriweather:wght@700&family=Raleway:wght@500&display=swap');
 
+*:focus {
+    outline: none;
+}
 html {
     height: 100%;
     font-size: 18px;
@@ -19,6 +22,7 @@ h1, h2, h4, a {
 
 a:link {
     text-decoration: none;
+    
 }
 #contact a:visited {
     color: #ed411d;
