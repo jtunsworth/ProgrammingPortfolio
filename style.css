@@ -49,6 +49,7 @@ h2, h4 {
 p {
     font-family: 'Raleway', sans-serif;
     letter-spacing: 1px;
+    line-height: 2rem;
 }
 
 
@@ -178,6 +179,7 @@ p#message {
     font-family: 'Estonia', sans-serif;
     font-size: 3.5rem;
     letter-spacing: 2px;
+    line-height: 3rem;
     text-align: center;
     display: flex;
     flex-direction: column;
